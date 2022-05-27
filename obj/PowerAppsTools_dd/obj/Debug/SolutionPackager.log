@@ -1,0 +1,19 @@
+2022-05-27 17:08:11.488 - Info	
+Packing C:\Users\Tdayman\Desktop\DaymanDynamics\PCF\DDAlertsDisplay\obj\PowerAppsTools_dd\obj\Debug\Metadata to bin\Debug\PowerAppsTools_dd.zip
+
+2022-05-27 17:08:11.501 - Info	Processing Component: Entities
+2022-05-27 17:08:11.503 - Info	Processing Component: Roles
+2022-05-27 17:08:11.505 - Info	Processing Component: Workflows
+2022-05-27 17:08:11.505 - Info	Processing Component: FieldSecurityProfiles
+2022-05-27 17:08:11.505 - Info	Processing Component: Templates
+2022-05-27 17:08:11.506 - Info	Processing Component: EntityMaps
+2022-05-27 17:08:11.506 - Info	Processing Component: EntityRelationships
+2022-05-27 17:08:11.510 - Info	Processing Component: OrganizationSettings
+2022-05-27 17:08:11.510 - Info	Processing Component: optionsets
+2022-05-27 17:08:11.511 - Info	Processing Component: CustomControls
+2022-05-27 17:08:11.517 - Info	 - daymandynamics.AlertsDisplay
+2022-05-27 17:08:11.522 - Info	Processing Component: SolutionPluginAssemblies
+2022-05-27 17:08:11.523 - Info	Processing Component: EntityDataProviders
+2022-05-27 17:08:11.569 - Info	
+Unmanaged Pack complete.
+

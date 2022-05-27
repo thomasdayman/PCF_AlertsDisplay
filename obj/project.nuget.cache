@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3fssbn3B4W63vLkG8Xm0LbQz9DEVc9NbQeBam1tqLYF6vzJri5HkihAozesIX6QmtSwcl+SpP/ZA7cbWSaYYlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tdayman\\Desktop\\DaymanDynamics\\PCF\\DDAlertsDisplay\\DDAlertsDisplay.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tdayman\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Tdayman\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Tdayman\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.15.3\\microsoft.powerapps.msbuild.pcf.1.15.3.nupkg.sha512"
+  ],
+  "logs": []
+}
