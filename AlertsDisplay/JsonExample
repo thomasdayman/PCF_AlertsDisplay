@@ -1,0 +1,46 @@
+[
+  {
+    "lookupfield": null,
+    "relatedlookupfield": null,
+    "field": "msdyn_systemstatus",
+    "alert": "The system status field is %field%",
+    "showalertbooleanwhen": false,
+    "showalertoptionsetwhen": null,
+    "backgroundcolour": "#e74438",
+    "textcolour": "#fff"
+  },
+  {
+    "lookupfield": "msdyn_workordertype",
+    "relatedlookupfield": null,
+    "field": "msdyn_incidentrequired",
+    "alert": "The Incident is required",
+    "showalertbooleanwhen": true,
+    "showalertoptionsetwhen": null,
+    "backgroundcolour": "#e74438",
+    "textcolour": "#fff"
+  },
+  {
+    "lookupfield": "msdyn_priority",
+    "relatedlookupfield": null,
+    "field": "msdyn_levelofimportance",
+    "alert": "The level of importance is higher than 7",
+    "showalertbooleanwhen": false,
+    "showalertoptionsetwhen": [
+      8,
+      9,
+      10
+    ],
+    "backgroundcolour": "#e74438",
+    "textcolour": "#fff"
+  },
+  {
+    "lookupfield": "msdyn_serviceaccount",
+    "relatedlookupfield": "primarycontactid",
+    "field": "emailaddress1",
+    "alert": "The Primary Contact email is %field%",
+    "showalertbooleanwhen": null,
+    "showalertoptionsetwhen": null,
+    "backgroundcolour": "#f9dd94",
+    "textcolour": "#444"
+  }
+]

@@ -1,0 +1,39 @@
+.daymandynamics\.AlertsDisplay img {
+  max-width: -webkit-fill-available;
+  min-width: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.daymandynamics\.AlertsDisplay ul {
+  counter-reset: li;
+  list-style: none;
+  padding: 0;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.daymandynamics\.AlertsDisplay ul li {
+  position: relative;
+  display: block;
+  padding: 0.4em 0.4em 0.4em 0.8em;
+  margin: 0.5em 0 0.5em 0.5px;
+  background: #f9dd94;
+  color: #444;
+  text-decoration: none;
+  transition: all 0.3s ease-out;
+}
+
+.daymandynamics\.AlertsDisplay ul li:after {
+  position: absolute;
+  content: "";
+  border: 0.5em solid transparent;
+  left: -1em;
+  top: 50%;
+  margin-top: -0.5em;
+  transition: all 0.3s ease-out;
+}
+
+.daymandynamics\.AlertsDisplay ul li:before {
+  content: "\26A0  ";
+}
